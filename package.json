@@ -1,0 +1,23 @@
+{
+  "name": "hw-9new",
+  "version": "1.0.0",
+  "description": "homework 9",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hromor/HW-9NEW.git"
+  },
+  "author": "Oleg <test@test.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hromor/HW-9NEW/issues"
+  },
+  "homepage": "https://github.com/Hromor/HW-9NEW#readme",
+  "devDependencies": {
+    "-": "^0.0.1",
+    "jest": "^29.3.1"
+  }
+}
